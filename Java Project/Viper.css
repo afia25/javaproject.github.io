@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color:#008B8B;
+}
+.text-field{
+    -fx-background-color:#40E0D0;
+}
+.button{
+    -fx-background-color:#87CEEB;
+}
+#pane{
+    -fx-background-image: url("https://www.incimages.com/uploaded_files/image/970x450/getty_690028746_364560.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+}
